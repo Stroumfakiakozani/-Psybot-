@@ -21,8 +21,8 @@
 - Προγραμματισμός των δραστηριοτήτων του Psybot στο scratch.
 4.	Λειτουργία του Psybot στη σχολική ρουτίνα (μέχρι το τέλος της χρονιάς)
 Υλικά: 
-1.	LEGOBOOST: CreativeToolbox 170 €
-2.	Τάμπλετ 100€
+1.	Οι πρώτοι μου Αυτοματισμοί 170€
+2.	Rolinger IP Κάμερα Παρακολούθησης Wi-Fi XD-2936 14,90
 3.	Γραφική Ύλη 20€
 Βιβλιογραφία:
 Denham, S. A. (2007). Dealing with feelings: How children negotiate the worlds of emotions and social relationships. Cognition, Brain and Behavio
