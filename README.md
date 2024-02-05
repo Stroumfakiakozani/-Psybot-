@@ -20,11 +20,14 @@
 - Συζήτηση και επιλογή δραστηριοτήτων που θα προτείνει το Psybot με τα παιδιά.
 - Προγραμματισμός των δραστηριοτήτων του Psybot στο scratch.
 4.	Λειτουργία του Psybot στη σχολική ρουτίνα (μέχρι το τέλος της χρονιάς)
+
 Υλικά: 
 1.	Οι πρώτοι μου Αυτοματισμοί 170€
 2.	Rolinger IP Κάμερα Παρακολούθησης Wi-Fi XD-2936 14,90
 3.	Γραφική Ύλη 20€
+
 Βιβλιογραφία:
+
 Denham, S. A. (2007). Dealing with feelings: How children negotiate the worlds of emotions and social relationships. Cognition, Brain and Behavio
 Vahedi, Farrokhi & Farajian, (2012). Social Competence and Behavior Problems in Preschool Children. Iranian Journal of Psychiatry
 Πρόγραμμα Σπουδών Προσχολικής Εκπαίδευσης. (2021).  Ινστιτούτο Εκπαιδευτικής Πολιτικής. Αθήνα
